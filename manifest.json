@@ -3,7 +3,7 @@
     "name": "네이버 카페 새로고침",
     "description": "네이버 카페 사이트에서 새로고침을 개선합니다.",
     "homepage_url": "https://github.com/getCurrentThread/Naver-Cafe-Fix-Refresh-Extension",
-    "version": "0.1.0.0",
+    "version": "0.1.1.1",
     "author": "getCurrentThread",
     "action": {
       "default_icon": "assets/thumbnail.png"
